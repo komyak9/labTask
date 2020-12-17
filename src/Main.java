@@ -66,9 +66,7 @@ public class Main {
 
 
 class A{
-
     int[] numbers;
-
     public A(int[] numbers){
         this.numbers = numbers;
     }
@@ -100,7 +98,6 @@ class B{
 
 class C{
     boolean[] booleans;
-
     public C(boolean[] booleans){
         this.booleans = booleans;
     }
@@ -116,7 +113,6 @@ class C{
 
 class D{
     double[] doubles;
-
     public D(double[] doubles){
         this.doubles = doubles;
     }
